@@ -36,6 +36,19 @@ git add .
 git add nombre.js
 ```
 
+* Para ver una linea de tiempo de los commits que hemos realizado:
+
+```bash
+git log
+
+```
+Para poder ver el detalle de un commit especifico usamos: (para salir presionar la letra q) dddddddddddddddddddddddddddddddddddddddd
+
+```bash
+git show ID-commit
+
+```
+
 
 ```html
 <hi> cambia color</hi>
